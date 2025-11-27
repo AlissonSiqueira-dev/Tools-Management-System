@@ -62,8 +62,8 @@ cd ../../backend
 pip install fastapi uvicorn
 
 # Start development servers
-npm run dev  # Frontend
-uvicorn main:app --reload    # Backend
+#front-end npm run dev
+#back-end uvicorn main:app --reload
 
 🎯 Use Cases
 
